@@ -7,6 +7,7 @@ const DisplayServices = (props) => {
     return (
         <div>
             <CardGroup >
+                {/* Service Card Contents */}
                 <Card >
                     <Card.Img variant="top" className="home-img" src={img} />
                     <Card.Body>

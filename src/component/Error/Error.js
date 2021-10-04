@@ -2,6 +2,7 @@ import React from 'react';
 import './Error.css';
 const Error = () => {
     return (
+        // Error Message
         <div>
             <h4 className="text-danger text-center error-message"> Error 404. Page not found!</h4>
         </div>

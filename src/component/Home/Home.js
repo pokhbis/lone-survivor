@@ -5,6 +5,7 @@ import HomeCart from '../HomeCart/HomeCart';
 import './Home.css';
 
 const Home = () => {
+    // Getting and Setting data 
     const [homeDisplay, setHomeDisplay] = useState([]);
     useEffect(() => {
         fetch('./data.json')
@@ -14,8 +15,10 @@ const Home = () => {
 
     return (
         <section>
+            {/* Home Page Part-1 */}
             <div>
-                <Carousel fade>
+                <Carousel >
+                    {/* Carousel slider-1 */}
                     <Carousel.Item>
                         <img
                             className="d-block carousel-slide "
@@ -27,6 +30,7 @@ const Home = () => {
                             <p>Fly through the limitlessness of the sky!</p>
                         </Carousel.Caption>
                     </Carousel.Item>
+                    {/* Carousel slider-2 */}
                     <Carousel.Item>
                         <img
                             className="d-block carousel-slide"
@@ -38,6 +42,7 @@ const Home = () => {
                             <p>Dive deep into the earth in search of priceless memory!</p>
                         </Carousel.Caption>
                     </Carousel.Item>
+                    {/* Carousel slider-3 */}
                     <Carousel.Item>
                         <img
                             className="d-block carousel-slide"
@@ -52,6 +57,7 @@ const Home = () => {
                 </Carousel>
             </div>
             <div className="container" >
+                {/* Home Page Part-2 */}
                 <div className="pt-5 pb-3 section-2 text-center">
                     <h2 ><strong className="section-2-text">Popular</strong> Training</h2>
                     <p className="fw-bold">We train people to learn exciting adventurous survival skills. Check out our specially offered courses below. </p>

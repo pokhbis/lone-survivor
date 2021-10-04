@@ -6,6 +6,7 @@ const HomeCart = (props) => {
     const { title, cost, duration, img, text } = props.service;
     return (
         <div className="home-container" >
+            {/* Home Page card */}
             <CardGroup >
                 <Card >
                     <Card.Img variant="top" className="home-img" src={img} />

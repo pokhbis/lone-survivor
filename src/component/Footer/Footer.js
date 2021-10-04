@@ -3,6 +3,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div className=" footer-background pt-3">
+            {/* Footer Part-1 */}
             <div className="row ms-5">
                 <div className="col-md-4">
                     <h3> The Lone Survivor</h3>
@@ -25,6 +26,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="row ">
+                {/* Footer Part-2 */}
                 <div className="d-flex justify-content-center my-5 ">
                     <div>
                         <h4>Enter the fold!</h4>
@@ -37,6 +39,7 @@ const Footer = () => {
                 </div>
 
             </div>
+            {/* Footer Part-3 */}
             <p className="text-center pb-2">@ All Rights Reserved by The Lone Survivor.</p>
         </div>
     );

@@ -8,6 +8,7 @@ const Header = () => {
         <div>
             <Navbar bg="primary" variant="dark">
                 <Container>
+                    {/* header logo and title  */}
                     <div className="d-flex align-items-center">
                         <div>
                             <img className="header" src={logo} alt="" />
@@ -19,7 +20,7 @@ const Header = () => {
                         </div>
 
                     </div>
-
+                    {/* Header Navigation Links */}
                     <Nav className="me-end">
                         <Link className="header-options" to="/home">Home</Link>
                         <Link className="header-options" to="/about">About</Link>
