@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Mountaineering",
+        "img": "https://www.roadaffair.com/wp-content/uploads/2019/06/trail-running-shoes-shutterstock_703189510-1024x683.jpg",
+        "text": "Survival skills are techniques that a person may use in order to sustain life in any type of natural environment or built environment. These techniques are meant to provide basic necessities for human life which include water, food, and shelter",
+        "cost": 120,
+        "duration": " 7 Days"
+    },
+    {
+        "id": 2,
+        "title": "Sea Surfing",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE67h0mEBlqaHl9RzfaGjaT5Vmd3WwOhE1v3MI8a94TAunNVFWm-E1XhgCBc3osAzkNvk&usqp=CAU",
+        "text": "Survival skills are techniques that a person may use in order to sustain life in any type of natural environment or built environment. These techniques are meant to provide basic necessities for human life which include water, food, and shelter",
+        "cost": 140,
+        "duration": " 8 Days"
+    },
+    {
+        "id": 3,
+        "title": "Scuba Diving",
+        "img": "https://www.deeperblue.com/wp-content/uploads/2016/03/AdobeStock_62701813-scaled.jpeg",
+        "text": "Survival skills are techniques that a person may use in order to sustain life in any type of natural environment or built environment. These techniques are meant to provide basic necessities for human life which include water, food, and shelter",
+        "cost": 220,
+        "duration": " 10 Days"
+    },
+    {
+        "id": 4,
+        "title": "Rafting",
+        "img": "https://images.unsplash.com/photo-1582811588429-becf2ea63485?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFmdGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "text": "Survival skills are techniques that a person may use in order to sustain life in any type of natural environment or built environment. These techniques are meant to provide basic necessities for human life which include water, food, and shelter",
+        "cost": 120,
+        "duration": " 7 Days"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Mountain Climbing",
+        "img": "https://www.roadaffair.com/wp-content/uploads/2019/06/trail-running-shoes-shutterstock_703189510-1024x683.jpg",
+        "cost": 120,
+        "duration": " 7 Days"
+    },
+    {
+        "id": 2,
+        "title": "Sea Surfing",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE67h0mEBlqaHl9RzfaGjaT5Vmd3WwOhE1v3MI8a94TAunNVFWm-E1XhgCBc3osAzkNvk&usqp=CAU",
+        "cost": 140,
+        "duration": " 8 Days"
+    },
+    {
+        "id": 3,
+        "title": "Rafting",
+        "img": "https://www.ithaka.travel/blog/wp-content/uploads/2018/10/White-Water-Rafting-In-Ubud-Feature-Opt.jpg",
+        "cost": 120,
+        "duration": " 7 Days"
+    },
+    {
+        "id": 4,
+        "title": "Free Fall",
+        "img": "https://studiousguy.com/wp-content/uploads/2021/05/Free-Fall-Motion.jpg",
+        "cost": 1280,
+        "duration": " 15 Days"
+    },
+    {
+        "id": 5,
+        "title": "Zip Lining",
+        "img": "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cmsfeatured/ziplining-in-costa-rica-1539012197-785X440.jpg",
+        "cost": 340,
+        "duration": " 5 Days"
+    },
+    {
+        "id": 6,
+        "title": "Mountain Biking",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-MlLx-SOocHUQlfg7F1XFSG0U5vwqg5SC6CtQVJv_mxcAyIzl3e_a9OA8_dJVWBO1Do&usqp=CAU",
+        "cost": 520,
+        "duration": " 6 Days"
+    },
+    {
+        "id": 7,
+        "title": "Skiing and Snowboarding",
+        "img": "https://www.skibluemt.com/media/1407/skiervsboarder.jpg?width=500&height=333.125",
+        "cost": 400,
+        "duration": " 8 Days"
+    },
+    {
+        "id": 8,
+        "title": "Day Hiking",
+        "img": "https://images.squarespace-cdn.com/content/v1/5346a846e4b0101b157468cf/1516911861894-U1GFIB21WYLBQ4I7Y8XG/image-asset.jpeg",
+        "cost": 180,
+        "duration": " 4 Days"
+    },
+    {
+        "id": 9,
+        "title": "Backpacking",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=900&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F04%2F16%2Ftour-du-mont-blanc-europe-BACKPACKING0421.jpg",
+        "cost": 0,
+        "duration": " 1 Days"
+    },
+    {
+        "id": 10,
+        "title": "Canoeing",
+        "img": "https://cms-media.getmyboat.com/production/images/Canoe.original.jpg",
+        "cost": 320,
+        "duration": " 3 Days"
+    }
+]

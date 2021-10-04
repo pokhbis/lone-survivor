@@ -1,0 +1,18 @@
+.header{
+    width: 150px;
+}
+.header-tag{
+    font-weight: 600;
+    font-size: 44px;
+}
+.header-options{
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 7px;
+}
+.header-title{
+    color: white;
+}

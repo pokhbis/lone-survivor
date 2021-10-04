@@ -1,0 +1,19 @@
+.service-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+    text-align: center;
+    width: 100%;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(247, 244, 241); 
+    margin: 10px 15px;
+}
+.service-title{
+  /* background-color: rgb(169, 226, 220); */
+  text-align: center;
+}
+.service-title-tag{
+    color: goldenrod;
+}

@@ -1,0 +1,28 @@
+/* .home-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+}
+.container-info{
+text-align: center;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(247, 244, 241); 
+    margin: 10px 15px;  
+} */
+.home-img{
+    height: 250px;
+}
+.btn{
+    background-color: deepskyblue;
+    width: 60%;
+    height: 40px;
+    border-radius: 8px;
+    margin-left: 60px;
+   margin-bottom: 10px;
+   font-weight: 600;
+   color: white;
+
+}
