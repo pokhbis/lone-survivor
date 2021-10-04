@@ -1,10 +1,10 @@
 
 import { Card, CardGroup } from 'react-bootstrap';
 import './HomeCart.css';
+
 const HomeCart = (props) => {
     const { title, cost, duration, img, text } = props.service;
     return (
-
         <div className="home-container" >
             <CardGroup >
                 <Card >

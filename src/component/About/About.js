@@ -6,7 +6,6 @@ import imageC from '../../Images/aboutImage/objective.jpg';
 const About = () => {
     return (
         <div className="about-section-bg">
-
             <div className="container about-section py-5">
                 <div className="">
                     <h2 className="text-center">Mission</h2>

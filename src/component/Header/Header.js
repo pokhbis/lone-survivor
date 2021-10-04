@@ -16,7 +16,6 @@ const Header = () => {
                         <p className="header-title">Learn New Exciting Skills</p>
                     </div>
 
-
                     <Nav className="me-end">
                         <Nav.Link className="header-options f" href="/home">Home</Nav.Link>
                         <Nav.Link className="header-options" href="/about">About</Nav.Link>
@@ -25,12 +24,7 @@ const Header = () => {
                     </Nav>
                 </Container>
             </Navbar>
-
-
-
-
         </div >
     );
 };
-
 export default Header;

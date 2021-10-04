@@ -1,10 +1,7 @@
 .about-section{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    /* margin-left: 220px; */
     grid-gap: 10px;
-   
-
 }
 .about-section-bg{
     background-color: rgb(236, 236, 245);

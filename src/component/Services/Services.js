@@ -13,7 +13,7 @@ const Services = () => {
     return (
         <div className="container">
             <div className="service-title my-5">
-                <h2><strong className="service-title-tag">Featured</strong> Courses</h2>
+                <h2><strong className="service-title-tag">Featured Courses</strong> of Our Service </h2>
                 <p className="fw-bold">Know what people like to explore about !</p>
             </div>
 

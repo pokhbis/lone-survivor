@@ -3,7 +3,7 @@ import './Error.css';
 const Error = () => {
     return (
         <div>
-            <h4 className="text-danger text-center error-message"> 404. Page not found!</h4>
+            <h4 className="text-danger text-center error-message"> Error 404. Page not found!</h4>
         </div>
     );
 };
