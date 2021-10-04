@@ -12,7 +12,11 @@
     cursor: pointer;
     padding: 10px;
     margin-left: 7px;
-    
+    text-decoration: none;
+   
+}
+.header-options:hover{
+    color:rgb(20, 19, 19);
 }
 .header-title{
     color: white;
