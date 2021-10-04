@@ -24,8 +24,6 @@ const DisplayServices = (props) => {
                         <i className="fas fa-star filled"></i>
                         <i className="far fa-star"></i>
 
-
-
                     </div>
                     <Card.Footer>
                         <small className="text-muted">Duration: {duration}</small>

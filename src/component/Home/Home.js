@@ -52,9 +52,10 @@ const Home = () => {
                 </Carousel>
             </div>
             <div className="container" >
-                <div className="pt-5 pb-3 section-2">
+                <div className="pt-5 pb-3 section-2 text-center">
                     <h2 ><strong className="section-2-text">Popular</strong> Training</h2>
-                    <p>About what the people are excited!</p>
+                    <p className="fw-bold">We train people to learn exciting adventurous survival skills. Check out our specially offered courses below. </p>
+                    {/* <p>About what the people are excited!</p> */}
                 </div>
 
                 <div className="home-service">

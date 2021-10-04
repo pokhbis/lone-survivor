@@ -5,7 +5,7 @@ const Footer = () => {
         <div className=" footer-background pt-3">
             <div className="row ms-5">
                 <div className="col-md-4">
-                    <h3>Lone Survivor</h3>
+                    <h3> The Lone Survivor</h3>
                     <p>Lone Survivor is a team of survival expert, who will train you the best to cope up with any natural life threatening events;in case you lost in the wild, mountain or island. </p>
                 </div>
                 <div className="col-md-4">
