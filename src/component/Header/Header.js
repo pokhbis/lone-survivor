@@ -8,13 +8,16 @@ const Header = () => {
         <div>
             <Navbar bg="primary" variant="dark">
                 <Container>
-                    <div>
-                        <img className="header" src={logo} alt="" />
-                    </div>
-                    <div >
-                        <Navbar.Brand className="header-tag" href="#home"><small>Enjoy Adventure-Training</small>
-                        </Navbar.Brand>
-                        <p className="header-title">Learn New Exciting Survival Skills</p>
+                    <div className="d-flex align-items-center">
+                        <div>
+                            <img className="header" src={logo} alt="" />
+                        </div>
+                        <div >
+                            <h2 className="header-tag" href="#home"><small>The Lone Survivor</small>
+                            </h2>
+                            <p className="header-title">Learn New Exciting Survival Skills</p>
+                        </div>
+
                     </div>
 
                     <Nav className="me-end">
