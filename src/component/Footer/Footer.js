@@ -40,7 +40,7 @@ const Footer = () => {
 
             </div>
             {/* Footer Part-3 */}
-            <p className="text-center pb-2">@ All Rights Reserved by The Lone Survivor.</p>
+            <p className="text-center pb-2">@ All Rights Reserved by The Lone Survivor, 2021.</p>
         </div>
     );
 };
