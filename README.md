@@ -1,17 +1,14 @@
 # The Lone Survivor Training 
 
-This website has been created with React and Bootstrap. To visit the website please click [The Lone Survivor](https://wizardly-torvalds-6a444e.netlify.app/).
+To visit the website please click [The Lone Survivor](https://wizardly-torvalds-6a444e.netlify.app/).
 
 ## What Do We Teach:
 
-#### We teach surviving skills to the people who are physically capable of doing so. The Lone Survivor delivers immersive, wilderness-based experiences to hardy souls since 1968. BOSS survival courses are renowned for delivering both physical and mental challenges and rigorous instruction in bushcraft, survival skills, and traditional and primitive living skills. 
+#### This is a survival training facility providing a website. From here people can learn life-saving tricks and tips in case of adverse situations. Thus help people to stay fit and healthy. It is fully responsive on desktop and mobile platforms. The courses are renowned for delivering both physical and mental challenges and rigorous instruction in bushcraft, survival skills, and traditional and primitive living skills.
 
-## Three bullet points about our services are given below:
+## Five bullet points about our services are given below:
+#### This is a survival training providing related website.
 #### This website has been made using React, Bootstrap and custom CSS on the base of XML. 
 #### All web pages have header and footer content. Web pages content have  changed according to the page's requirement.
-#### All the asked requirements have developed. Code are kept as efficient as possible.
-
-## What do we offer:
-#### Train people for adventure.
-#### Teach basic to advance surviving skills. 
-#### Help people explore nature.
+#### Along with surviving skills people can also learn necessary day to day tricks and tips for healthy life. 
+#### People can explore their inner capability through nature by reading blog.
